@@ -2,43 +2,42 @@
     border: 5px solid greenyellow;
     background-color: pink;
 }
-.row1{
+.r1{
     background-color: brown;
 }
-.row1col1{
+.r1c1{
     height: 200px;
     width: 100px;
     background-color: green;
 }
-.row1col2{
+.r1c2{
     background-color: antiquewhite;
     height: 200px;
     width: 100px;
 }
-.row2{
+.r2{
     background-color: brown;
 }
-.row2col1{
+.r2c1{
     background-color: aqua;
     height: 200px;
     width: 100px;
 }
-.row2col2{
+.r2c2{
     background-color: aquamarine;
     height: 200px;
     width: 100px;
 }
-.row3{
+.r3{
     background-color: brown;
 }
-.row3col1{
+.r3c1{
     background-color: beige;
     height: 200px;
     width: 100px;
 }
-.row3col2{
+.r3c2{
     background-color: bisque;
     height: 200px;
     width: 100px;
 }
-/* Your CSS Code here. */
